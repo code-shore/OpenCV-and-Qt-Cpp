@@ -15,7 +15,7 @@ OpenCV :
 https://drive.google.com/file/d/1I6EHK65hBHWwjHFuc2bO6Hvh5u-M5GPb/view?usp=sharing
 
 	2. Unzip the file to C:\
-	3. You'll notice a 'opencvbuild' directory will be created
+	   You'll notice a 'opencvbuild' directory will be created
 	4. Add to the 'PATH' in the 'Environment Variables' 
 		C:\Qt\Qt5.6.3\Tools\mingw492_32\bin;
 		C:\opencvbuild\install\x86\mingw\bin;
