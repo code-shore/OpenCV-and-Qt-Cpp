@@ -4,8 +4,10 @@
 Setup: you can choose either 
 
 Methos 1:
+
 Follow the steps described in the link. Method 2 is based on this link
 	https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows
+
 
 Method 2:
 
