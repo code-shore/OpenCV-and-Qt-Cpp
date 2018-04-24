@@ -1,7 +1,13 @@
 # OpenCV-with-Qt-Cpp
 
 
-Setup
+Setup: you can choose either 
+
+Methos 1:
+Follow the steps described in the link. Method 2 is based on this link
+	https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows
+
+Method 2:
 
 Qt :
 	1. Download th installer: https://www1.qt.io/offline-							    installers/
